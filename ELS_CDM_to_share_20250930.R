@@ -6,7 +6,7 @@ library(GDINA)
 # set your working directory
 # store the following q matrix csv in your working directory
 
-setwd("")
+#setwd("")
 
 q_mat_end <- read.csv("Revised Q-matrix2025_09_30_g7.csv", 
                       header=T, stringsAsFactors = F)

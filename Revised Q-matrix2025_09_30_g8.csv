@@ -1,3 +1,4 @@
+Item,Recognize mathematical structures and patterns,Perform procedures,Formulate mathematical representations,Apply Strategic Mathematical Reasoning
 8_1a,0,1,0,0
 8_1b,1,1,0,0
 8_1c,1,1,0,0
@@ -10,9 +11,9 @@
 8_6b,1,1,1,0
 8_7,1,1,0,1
 8_8,1,0,1,0
-8_9a,1,1*,1*,0
+8_9a,1,1,1,0
 8_9b,1,1,1,0
-8_10,1,1,1,1*
+8_10,1,1,1,1
 8_11,1,1,1,1
 8_12,1,0,0,1
 8_13,1,0,0,1
@@ -22,4 +23,4 @@
 8_15a,1,0,0,1
 8_15b,1,1,1,0
 8_16a,1,0,1,0
-8_16b,1,1,1,1*
+8_16b,1,1,1,1
