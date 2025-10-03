@@ -77,3 +77,7 @@ modelfit(est_acdm)
 
 Qv <- Qval(est_rrum)
 plot(Qv, item=c(1:25), eps=0.95, data.label = TRUE)
+
+#For G-Dina
+Qv1 <- Qval(est_gdina)
+plot(Qv1, item=c(1:25), eps=0.95, data.label = TRUE)
